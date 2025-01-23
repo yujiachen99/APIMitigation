@@ -26,7 +26,7 @@ Each line in the file represents a sample with the following fields:
 
 ### Prompt Template
 
-The [prompt template]() integrates hierarchical dependency information to provide a structured context for LLMs. It includes:
+The [prompt template](https://github.com/yujiachen99/APIMitigation/blob/main/prompt_template.py) integrates hierarchical dependency information to provide a structured context for LLMs. It includes:
 
 * **Project Description**: A brief overview of the project's purpose, providing essential background for the LLM.
 * **Global Dependency**: Simplified skeletons of related and current files, including class definitions, member fields, and function signatures, to represent the broader project structure.
