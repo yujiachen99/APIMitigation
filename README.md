@@ -7,7 +7,7 @@ This repository provides the resources for our work on mitigating API hallucinat
 
 ##### Benchmark Resources
 
-We provide the necessary project repositories for constructing the benchmark, which can be downloaded from the following Google Drive link: Download Project Repositories[https://drive.google.com/file/d/12c46In9w9fqJyU-qAAKccMSVycFIszOz/view?usp=sharing]
+We provide the necessary project repositories for constructing the benchmark, which can be downloaded from the following Google Drive link: Download Project Repositories<https://drive.google.com/file/d/12c46In9w9fqJyU-qAAKccMSVycFIszOz/view?usp=sharing>
 
 #### Benchmark Files
 
