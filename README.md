@@ -11,8 +11,8 @@ We provide the necessary project repositories for constructing the benchmark, wh
 
 #### Benchmark Files
 
-* [APIHulBench-F](): Represents early-stage programming with limited code context.
-* [APIHulBench-M](): Represents later-stage programming with richer code context.
+* [APIHulBench-F](https://github.com/yujiachen99/APIMitigation/blob/main/APIHulBench_F.jsonl): Represents early-stage programming with limited code context.
+* [APIHulBench-M](https://github.com/yujiachen99/APIMitigation/blob/main/APIHulBench_M.jsonl): Represents later-stage programming with richer code context.
 
 #### JSONL Format
 Each line in the file represents a sample with the following fields:
