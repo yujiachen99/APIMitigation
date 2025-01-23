@@ -20,8 +20,8 @@ Each line in the file represents a sample with the following fields:
 * **project_path**: Path to the project repository.
 * **project_description**: Brief description of the project.
 * **file_path**: Path to the file containing the incomplete function.
-* **incomplete_function**: The incomplete function requires API call.
-* **line_location**: The line number of the API calls.
+* **incomplete_function**: The incomplete function requires an API call.
+* **line_location**: The line number of the API call.
 * **ground_truth**: The correct API call for the incomplete function.
 
 ### Prompt Template
